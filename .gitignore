@@ -1,0 +1,15 @@
+.project
+.settings
+*~
+*.diff
+*.patch
+/*.html
+.DS_Store
+.bower.json
+.sizecache.json
+yarn.lock
+.eslintcache
+
+npm-debug.log*
+
+/node_modules
